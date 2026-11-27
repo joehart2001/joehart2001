@@ -1,4 +1,10 @@
-## Hi there 👋
+## Joseph Hart
+
+PhD student at the University of Cambridge
+
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0BacFVQAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/](https://www.linkedin.com/in/joe-hart-a714bb1b7/))
+
 
 <!--
 **joehart2001/joehart2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
